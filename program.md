@@ -22,9 +22,9 @@ In each section we will be referring to relevant literature, as well as pointing
 * Treatment effects distribution
 
 
-# Part 2: Hands on part
+# Part 2: Examples of statistical challenges and research opportunities
 
-* Performing experiment analysis
+* Peeking
 * Variance reduction techniques using machine learning
 
 # Part 3: Causal inference in two-sided marketplace setting
